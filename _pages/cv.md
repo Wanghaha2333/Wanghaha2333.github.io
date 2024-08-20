@@ -13,37 +13,26 @@ Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf)
 
 Education
 ======
-* B.S. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.S. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* B.S. in Statistics, Shandong University, Weihai, China, 2022
+* M.S. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2025
+* Ph.D. in Caliton University...
 
 Work experience
 ======
-* Jun. 2021 - Current: Postdoctoral Research Fellow
-  * Water Research Centre, University of New South Wales, Sydney, Australia
-  * Duties included: 
-    + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
-    + CMIP decadal prediction for rainfall forecasting
-  * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
-* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
-  * Tropical Marine Science Institute, National University of Singapore, Singapore
-  * Duties included: 
-    + Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
-    + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
-  * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
-
-* Mar. 2015 - Sep. 2015: Intern
-  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
+* May 2024 - Dec. 2024: Intern
+  * Bytedance, Beijing, China
   * Duties included:
-    + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
-    + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
-  * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker
+    + Developing video codec strategies for certain projects
+    + Daily maintainance of FFmpeg
   
 Research Interest
 ======
-* Wavelet based time series decomposition and transformation
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
+* Live Video Codec/Streaming
+* Volumetric Video Codec/Streaming
+* Video processing and enhancement
+* High-level video applications
+* LLM fine-tuning with LoRA
+* (What I wanna do) 2D/3D content generation
 
 Publications
 ======
