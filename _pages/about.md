@@ -23,10 +23,9 @@ I am an undergraduate student in Shandong University. My research focuses on Int
 * (What I wanna do) 2D/3D content generation
 
 
-## Selected Journal Publications
-Coming soon......
-Only after five papers published as 1st author will this be updated.
+## Selected Publications / Publications under review
+Please refer to my resume below.
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://Wanghaha2333.github.io/cv/) or [downloaded CV](http://Wanghaha2333.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf).
+More info about Ze Jiang can be found in [CV](https://Wanghaha2333.github.io/cv/) or [downloaded CV](http://Wanghaha2333.github.io/files/flwang.pdf).
 
