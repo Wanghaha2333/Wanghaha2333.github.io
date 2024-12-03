@@ -6,20 +6,20 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "Project"
     url: /portfolio/
         
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Software"
-    url: /software/
+  # - title: "Software"
+  #   url: /software/
 
   # - title: "Group"
   #   url: /people/
