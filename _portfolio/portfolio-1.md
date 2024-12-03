@@ -1,11 +1,7 @@
 ---
-title: "Drought Prediction across Australia"
-excerpt: "ARC linkage grant and Department of Industry, NSW, Australia <br/><img src='/images/drought.png'>"
+title: "Temporal Live Video Streaming Optimization on push-stream-side"
+excerpt: "Peng Cheng Lab/Tsinghua University <br/><img src='/images/Reparo.png'>"
 collection: portfolio
 ---
 
-Hydro-climatologists rely on general circulation models (GCMs) to understand the risk of future droughts due to human-induced climate change. However, GCMs have varying abilities to represent these sustained hydro-climatological anomalies due to their coarse resolutions and parametrizations leading to considerable uncertainty and biases at a range of time scales. Therefore, there are still research gaps in GCM-based assessments of hydro-climatological changes. As such, the primary aims of this project include: 
-
-* Identifying the role of uncertainty and bias in detecting historical climate change; 
-
-* Improving the representation of low-frequency variability of hydro-climatological anomalies, such as sustained droughts. 
+Live video streaming has grown dramatically in recent years. A key challenge is achieving high video quality of experience (QoE) in low-rate networks. To tackle this problem, recent streaming approaches strategically drop video frames, thus reducing the bandwidth re- quired. However, these methods are usually designed for video on demand (VoD) services and perform poorly in live video stream- ing. In this paper, we design a new live video streaming approach, Reparo, which aims to improve users’ QoE in low-rate networks. On the upload client side, Reparo discards video frames such that they are never encoded or transmitted. To decide which frames should be dropped, we design a real-time Video Frame Discarding (VFD) model, which strives to minimize the impact on video quality while maximizing bandwidth savings. To complement this, Reparo further proposes a modified adaptive bitrate algorithm and two encoding modes, targeting low-frame-rate encoding. On the server side, Reparo then recovers the dropped frames using a lightweight Video Frame Interpolation Deep Neural Network (VFI-DNN). Ex- perimental results show that, compared with vanilla DASH, Reparo reaches an SSIM gain of 0.018, or reduces bandwidth consumption by 30.86%. With an average bandwidth of 0.974Mbps, it improves QoE by 18.13% on average compared to DASH.
