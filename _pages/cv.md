@@ -42,5 +42,6 @@ Skills & Expertise
 ======
 * Programming Skills: C/C++, and Python in both Unix and Windows systems.
 * Rich experience in modifying FFmpeg.
+* Advanced Player with opertaing three troops simultaneously in Read Alert 2...
 
 
