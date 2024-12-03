@@ -1,13 +1,7 @@
 ---
-title: "Climate Change: Impact on Agriculture across Southeast Asia"
-excerpt: "Singapore-MIT Alliance project and World Bank project <br/><img src='/images/crop.png'>"
+title: "Temporal Live Video Streaming Optimization on Pull Stream Side"
+excerpt: "ByteDance Inc <br/><img src='/images/FRReductor.png'>"
 collection: portfolio
 ---
 
-## DSSAT crop modeling of future rice yield in Vietnam under climate change, Singapore-MIT Alliance project.
-
-Study the link of future climate changes and its impacts rice crop productivity over Vietnam. The study applied climate outputs at high resolution from a regional climate model (i.e., WRF) as inputs to the DSSAT crop modelling system. Projected future rice yield and food security risk map are simulated and generated. 
-
-## Development of index-based drought insurance for sovereign disaster risk transfer, Work Bank project. 
-
-Examine the usability of rainfall and temperature outputs of a regional climate model (RCM) and meteorological drought indices to develop a macro-level risk transfer product to compensate the government of Central Java, Indonesia, for drought-related disaster payments to rice farmers.
+Live video streaming has become more important, but bandwidth limitations are still a challenge. A common approach to saving bandwidth is reducing the frame rate, but this can degrade the quality of experience by compromising temporal smoothness. In this paper, we present and evaluate FRReductor, a system designed to lower the video frame rate throughout the live streaming process to save bandwidth, without degrading user experience. We conducted a large-scale user study to establish a metric for temporal user sensitivity and found that frame rate sensitivity is not solely linked to the amount of motion in the video. FRReductor leverages this insight to develop a frame rate prediction algorithm that adapts the frame rate according to the varying semantic content of different videos. On the push stream side, it conservatively applies pixel feature thresholds to reduce the bitrate. For transcoding, it adjusts the frame rate based on both the semantic content and a combination of global and local motion features. The frame rate prediction algorithm is then seamlessly integrated into the live streaming system without introducing additional end-to-end latency. Comprehensive tests demonstrate that FRReductor outperforms traditional DASH streams and other baselines, achieving an overall $16.19 \%$ frame reduction strategy penetration on our dataset with only a $19.68 \%$ false positive rate for frame rate reduction. It also saves 2-13.1\% in bandwidth while enhancing the Quality of Experience (QoE) by 10.81-14.81\%.
