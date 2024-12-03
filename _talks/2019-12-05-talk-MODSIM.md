@@ -1,11 +1,11 @@
 ---
-title: "A wavelet-based method to analyse sustained hydrological anomalies under climate change"
+title: "Human Eye Perception on Live Video Frame Rate"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-12-05-talk-MODSIM
-venue: "Royal Theatre"
-date: 2019-12-05
-location: "Canberra, Australia"
+venue: "ByteDance"
+date: 2024-11-05
+location: "Haidian, Beijing, China"
 ---
 
-Recommended citation: Jiang, Z., Sharma, A., and Johnson, F.: A wavelet-based method to analyse sustained hydrological anomalies under climate change, MODSIM 2019, National Convention Centre Canberra, 1-6 December 2019, K22. [Download talk here](http://zejiang-unsw.github.io/files/Jiang-MODSIM-2019.pdf)
+Recommended papers: BlindVQA in CVPR 2024 by my friend Wen Wen https://arxiv.org/abs/2402.19276, BVI-HFR Dataset in TMM 2022 https://ieeexplore.ieee.org/abstract/document/8531714/, HomeTex Dataset
