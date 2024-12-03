@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fulin Wang"
+title: "Fulin Wang（王福临）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,21 +11,20 @@ redirect_from:
 This is Fulin Wang's personal homepage.
 
 ## A short introduction
-I am an undergraduate student in Shandong University. My research focuses on Intelligent video delivery based on edge computing.
+I am a Final-year Master student in Tsinghua University. My research is mainly about on Edge Computing/Mobile Network Systems/Multimedia.
 
 <b>RESEARCH INTEREST:</b>
 
-* Live Video Codec/Streaming
+* Live Video Streaming with Normal/Ultra-Low Latency
+* Live Video Codec
 * Volumetric Video Codec/Streaming
 * Video processing and enhancement
-* High-level video applications
 * LLM fine-tuning with LoRA
-* (What I wanna do) 2D/3D content generation
 
 
 ## Selected Publications / Publications under review
 Please refer to my resume below.
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://Wanghaha2333.github.io/cv/) or [downloaded CV](http://Wanghaha2333.github.io/files/flwang.pdf).
+More info about Fulin Wang can be found [here](http://Wanghaha2333.github.io/files/FLWang-Resume.pdf).
 
